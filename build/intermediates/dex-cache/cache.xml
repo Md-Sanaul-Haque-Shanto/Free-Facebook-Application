@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SHANATO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-05d687c0c123104d0ba00b8bf81e77b7e061fdbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\pre-dexed\debug\classes-6be5038065edbef9c82f8ce927c46ce2adcc2761.jar" />
+    </item>
+    <item
+        jar="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-fdc228c922856094c1e38fdc3bc85905cf788d42.jar" />
+    </item>
+    <item
+        jar="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\SHANATO\AndroidStudioProjects\FreeFBgprobi\app\build\intermediates\pre-dexed\debug\classes-3a2ff95cd11cf130c7302e9ba28fdac525f1e7da.jar" />
+    </item>
+
+</items>
